@@ -1,1 +1,1 @@
-Membuat Aplikasi Kasir Restoran sebagai persiapan projek UKK
+Membuat Aplikasi Kasir Restoran sebagai persiapan UKK
