@@ -1,1 +1,1 @@
-Membuat Aplikasi Kasir Restoran sebagai persiapan UKK
+Melakukan perancangan dan pengembangan Aplikasi Kasir untuk Restoran sebagai bagian dari persiapan menghadapi Uji Kompetensi Keahlian (UKK).
