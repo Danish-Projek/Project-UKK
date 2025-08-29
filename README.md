@@ -3,7 +3,7 @@ Melakukan perancangan dan pengembangan Aplikasi Kasir Restoran sebagai bagian da
 
 Dengan pengembangan aplikasi ini, diharapkan dapat menciptakan solusi yang efisien dan praktis untuk membantu operasional restoran, sekaligus mengasah keterampilan pemrograman, perancangan sistem, dan manajemen proyek sesuai standar yang diuji dalam UKK.
 
-##🔹 Fitur Utama
+###🔹 Fitur Utama
 
 - Login Multi-role → Akses berbeda untuk Admin, Kasir, dan Staff.
 - Pengelolaan Menu → Tambah, edit, hapus menu, serta kategorisasi (makanan, minuman, snack).
@@ -12,7 +12,7 @@ Dengan pengembangan aplikasi ini, diharapkan dapat menciptakan solusi yang efisi
 - Cetak Struk & E-Receipt → Struk fisik via printer kasir dan struk digital via email/WhatsApp.
 - Laporan Penjualan Harian, Mingguan, Bulanan → Menampilkan omzet, menu terlaris, dan tren penjualan.
 
-##🔹 Fitur Pendukung
+###🔹 Fitur Pendukung
 
 - Manajemen Stok & Bahan Baku → Peringatan stok menipis, pengurangan stok otomatis setelah transaksi.
 - Diskon & Promo → Fitur kode voucher, promo menu tertentu, happy hour.
