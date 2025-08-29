@@ -1,4 +1,4 @@
-### Penjelasan
+## Penjelasan
 Melakukan perancangan dan pengembangan Aplikasi Kasir Restoran sebagai bagian dari persiapan menghadapi Uji Kompetensi Keahlian (UKK). Proses ini mencakup analisis kebutuhan, perancangan antarmuka, pembuatan database, serta implementasi fitur utama seperti pengelolaan menu, pemesanan, pembayaran, dan pencatatan laporan transaksi.
 
 Dengan pengembangan aplikasi ini, diharapkan dapat menciptakan solusi yang efisien dan praktis untuk membantu operasional restoran, sekaligus mengasah keterampilan pemrograman, perancangan sistem, dan manajemen proyek sesuai standar yang diuji dalam UKK.
@@ -32,10 +32,10 @@ Dengan pengembangan aplikasi ini, diharapkan dapat menciptakan solusi yang efisi
 <img width="1041" height="891" alt="Flowchart" src="https://github.com/user-attachments/assets/dc5787a6-1cec-4212-8d60-86d28c37035e" />
 
 
-### Diagram Activity
+## Diagram Activity
 <img width="601" height="1131" alt="Activity Diagram" src="https://github.com/user-attachments/assets/4126230b-bd10-4e63-8239-6770950289f8" />
 
 
-### Prototipe Tampilan
+## Prototipe Tampilan
 <img width="1096" height="649" alt="Tampilan App Kasir" src="https://github.com/user-attachments/assets/9e816438-f507-498a-a074-c386d7492a8f" />
 
