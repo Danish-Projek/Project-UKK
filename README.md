@@ -24,18 +24,18 @@ Dengan pengembangan aplikasi ini, diharapkan dapat menciptakan solusi yang efisi
 - Manajemen Karyawan → Jadwal shift, absensi, dan kinerja kasir.
 
 
-## Diagram Use Case
+## 🔹 Diagram Use Case
 <img width="695" height="621" alt="Diagram Use Case" src="https://github.com/user-attachments/assets/1c3b4aef-9384-40f9-9a7e-45d7db8e4135" />
 
 
-## Flowchart
+## 🔹 Flowchart
 <img width="1041" height="891" alt="Flowchart" src="https://github.com/user-attachments/assets/dc5787a6-1cec-4212-8d60-86d28c37035e" />
 
 
-## Diagram Activity
+## 🔹 Diagram Activity
 <img width="601" height="1131" alt="Activity Diagram" src="https://github.com/user-attachments/assets/4126230b-bd10-4e63-8239-6770950289f8" />
 
 
-## Prototipe Tampilan
+## 🔹 Prototipe Tampilan
 <img width="1096" height="649" alt="Tampilan App Kasir" src="https://github.com/user-attachments/assets/9e816438-f507-498a-a074-c386d7492a8f" />
 
