@@ -20,3 +20,6 @@ Dengan pengembangan aplikasi ini, diharapkan dapat menciptakan solusi yang efisi
 - Reservasi Online → Reservasi meja via aplikasi/web, dengan notifikasi otomatis.
 - Notifikasi Real-Time ke Dapur (Kitchen Display System) → Pesanan langsung tampil di layar dapur.
 - Manajemen Karyawan → Jadwal shift, absensi, dan kinerja kasir.
+
+### Diagram Use Case
+<img width="695" height="621" alt="Diagram Use Case" src="https://github.com/user-attachments/assets/1c3b4aef-9384-40f9-9a7e-45d7db8e4135" />
