@@ -36,6 +36,11 @@ Dengan pengembangan aplikasi ini, diharapkan dapat menciptakan solusi yang efisi
 <img width="601" height="1131" alt="Activity Diagram" src="https://github.com/user-attachments/assets/4126230b-bd10-4e63-8239-6770950289f8" />
 
 
+## 🔹 Diagram Sequence Login
+<img width="671" height="401" alt="Diagram Sequence Login" src="https://github.com/user-attachments/assets/94821c9c-0fcf-4bd0-94db-19d7aaf66918" />
+
+
+
 ## 🔹 Prototipe Tampilan
 <img width="1096" height="649" alt="Tampilan App Kasir" src="https://github.com/user-attachments/assets/9e816438-f507-498a-a074-c386d7492a8f" />
 
